@@ -1,4 +1,4 @@
-package patterns
+package patterns.creationals
 
 /**
  * It's quite similar on android when we're working on RecyclerView/ListAdapter, and we want to have different

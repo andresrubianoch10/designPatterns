@@ -1,4 +1,4 @@
-package patterns
+package patterns.creationals
 
 class Person private constructor(
     val name: String,

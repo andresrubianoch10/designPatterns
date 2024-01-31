@@ -1,4 +1,4 @@
-package patterns
+package patterns.behaviorals
 
 data class NewForm(
     val form: String,
