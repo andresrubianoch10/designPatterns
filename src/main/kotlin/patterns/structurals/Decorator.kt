@@ -1,4 +1,4 @@
-package patterns
+package patterns.structurals
 
 open class NewsArticle(val title: String, val description: String)
 

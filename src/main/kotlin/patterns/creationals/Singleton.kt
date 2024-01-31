@@ -1,4 +1,4 @@
-package patterns
+package patterns.creationals
 
 object UserSession {
     var username: String? = null
